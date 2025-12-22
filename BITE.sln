@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BITE.Api", "BITE.Api\BITE.Api.csproj", "{84697A2D-8244-867C-E52F-D298C144CF5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BITE.Client", "BITE.Client\BITE.Client.csproj", "{486DE25F-E54A-F135-02C6-0EFCEF2E34B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84697A2D-8244-867C-E52F-D298C144CF5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84697A2D-8244-867C-E52F-D298C144CF5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84697A2D-8244-867C-E52F-D298C144CF5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84697A2D-8244-867C-E52F-D298C144CF5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{486DE25F-E54A-F135-02C6-0EFCEF2E34B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{486DE25F-E54A-F135-02C6-0EFCEF2E34B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{486DE25F-E54A-F135-02C6-0EFCEF2E34B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{486DE25F-E54A-F135-02C6-0EFCEF2E34B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDA5419B-B2C0-44B8-9BA3-0DB6EDF6CFB5}
+	EndGlobalSection
+EndGlobal
