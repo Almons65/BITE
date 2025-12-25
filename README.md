@@ -1,3 +1,2 @@
-# BITE
+# BITE (IN DEVELOPMENT PROCESS)
 Restaurant System Management
-# (IN DEVELOPMENT PROCESS)
